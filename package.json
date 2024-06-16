@@ -36,7 +36,7 @@
     "eslint": "^7.13.0",
     "eslint-plugin-github": "^4.1.1",
     "http-server": "^0.12.3",
-    "jest": "^26.6.3",
+    "jest": "^29.7.0",
     "js-yaml": "^3.14.0",
     "mocha": "^10.2.0",
     "npm-run-all": "^4.1.5",
@@ -47,7 +47,7 @@
     "webdriverio": "^8.3.5"
   },
   "dependencies": {
-    "@actions/core": "^1.2.6",
+    "@actions/core": "^1.9.1",
     "@actions/exec": "^1.0.4",
     "@actions/io": "^1.1.2",
     "@actions/tool-cache": "^2.0.1"
